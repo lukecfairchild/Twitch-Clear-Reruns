@@ -1,0 +1,5 @@
+@-moz-document url-prefix(https://www.twitch.tv) {
+	.stream-type-indicator--rerun span {
+		font-size: 815%;
+	}
+}
